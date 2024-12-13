@@ -1,0 +1,17 @@
+.headerstyle
+{
+    color: rgb(255,255,255);
+    background-color:blueviolet;
+    text-align: center;
+}
+.div-header
+{
+    height: 200px;
+    background-color: royalblue;
+    text-align: center;
+}
+.para
+{
+    color: greenyellow;
+    text-align: center;
+}
